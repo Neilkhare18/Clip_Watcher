@@ -1,0 +1,8 @@
+customtkinter>=5.2.0
+streamlink>=6.0.0
+pytchat>=0.5.5
+websocket-client>=1.6.0
+numpy>=1.24.0
+
+# Optional: AI audio transcription
+# faster-whisper>=1.0.0
